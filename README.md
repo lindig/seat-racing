@@ -43,12 +43,12 @@ changing conditions.
 |**6**   |R    |R    |Q    |Q    |R    |Q    |Q    |R    |160.2   |167.8   |\-7.6     |\-0.7     |
 |**1**   |R    |R    |Q    |Q    |R    |R    |Q    |Q    |164.0   |163.7   |0.3       |7.9       |
 
-In the table above, each athlete is assigned a boat, R or Q; and for
-each boat a race time is recorded in seconds. The *Margin* is the time R
-is faster than Q (positive margin), or slower (negative margin). For
-example, in Race 2 the margin is 5.0 seconds, so R was faster by 5
-seconds.  After every race two athletes swap boats. We observe how the
-margin changes.
+In the table above, each athlete (a to d, 1 to 4) is assigned a boat, R
+or Q; and for each boat a race time is recorded in seconds. The *Margin*
+is the time R is faster than Q (positive margin), or slower (negative
+margin). For example, in Race 2 the margin is 5.0 seconds, so R was
+faster by 5 seconds.  After every race two athletes swap boats. We
+observe how the margin changes.
 
 For Race 2, b swaps from R to Q and c from Q to R.  The margin changes
 from 0.3 in Race 1 to 5.0 in Race 2, so a change of 4.7s. This change is
@@ -78,7 +78,23 @@ In summary, we found these athletes speeds from faster to slower:
 We can't observe the speed of athletes a and 1 relative to other
 athletes on their side.
 
+### Discussion
 
+* The appeal of the method is the connection between change in winning
+  margin and the previous swap. At the same time, this could lead
+  swapped athletes to work harder after a swap, knowing that they will
+  be judged on the current race.
 
+* In the example, athletes a and 1 are not observed, and are racing
+  together in the same boat for all six races in R. It could be argued 
+  that this does not create equal and fair conditions. A different swap
+  plan could address this but we need to be careful to maintain the
+  desirable property that we can observe six pairs or athletes. 
 
+* We compare athletes c and b directly in Race 2, but also indirectly in
+  Race 6 (b,d) and Race 4 (c,d). In this case the result is the same
+  but this is not a given and can lead to ambiguous results.
 
+* The method does not lead to a complete ranking within the two groups.
+  Thus, we need to plan ahead which athletes we are interested in and
+  which not.
