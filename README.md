@@ -104,3 +104,29 @@ athletes on their side.
   after a swap both boats are slower than in the previous race. This
   method does not take this into account and only looks at the winning
   margin and its changes.
+
+# Two-Swaps Method
+
+Work in progress.
+
+| **Race** | **a** | **b** | **c** | **d** | **1** | **2** | **3** | **4** | **Q** | **R** |
+| -------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **1**    | R     | R     | Q     | Q     | R     | R     | Q     | Q     | 164.0 | 163.7 |
+| **2**    | Q     | R     | Q     | R     | R     | Q     | R     | Q     | 163.2 | 164.5 |
+| **3**    | Q     | R     | R     | Q     | Q     | R     | R     | Q     | 167.4 | 160.5 |
+| **4**    | R     | R     | Q     | Q     | Q     | Q     | R     | R     | 160.6 | 167.4 |
+| **5**    | Q     | R     | Q     | R     | Q     | R     | Q     | R     | 163.0 | 164.7 |
+| **6**    | Q     | R     | R     | Q     | R     | Q     | Q     | R     | 162.8 | 164.8 |
+
+| **Rower** | **Time** | **Rank** |
+| --------- | -------- | -------- |
+| **c**     | 976.0    | 1        |
+| **d**     | 984.0    | 2        |
+| **b**     | 985.6    | 3        |
+| **a**     | 987.4    | 4        |
+|           |          |          |
+| **2**     | 975.5    | 1        |
+| **3**     | 982.2    | 2        |
+| **1**     | 984.0    | 3        |
+| **4**     | 991.4    | 4        |
+
