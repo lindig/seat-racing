@@ -98,3 +98,9 @@ athletes on their side.
 * The method does not lead to a complete ranking within the two groups.
   Thus, we need to plan ahead which athletes we are interested in and
   which not.
+
+* Over the six races, conditions may change and athletes become tired.
+  This may lead to racing absolute racing times to change. For example,
+  after a swap both boats are slower than in the previous race. This
+  method does not take this into account and only looks at the winning
+  margin and its changes.
