@@ -150,3 +150,4 @@ effectively of similar speed.
 * A potential disadvantage could be that this method only indirectly
   compares athletes. 
 
+* The analysis of the result is simpler compared to the one-swap method.
