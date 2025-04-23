@@ -107,7 +107,10 @@ athletes on their side.
 
 # Two-Swaps Method
 
-Work in progress.
+In the two-swaps method after each race, two athletes from each boat
+move into the other boat and vice versa: one from each side. For each
+rower, the total time he or she is racing is added up. Unlike in the
+one-swap method, every race counts for everyone.
 
 | **Race** | **a** | **b** | **c** | **d** | **1** | **2** | **3** | **4** | **Q** | **R** |
 | -------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -117,6 +120,9 @@ Work in progress.
 | **4**    | R     | R     | Q     | Q     | Q     | Q     | R     | R     | 160.6 | 167.4 |
 | **5**    | Q     | R     | Q     | R     | Q     | R     | Q     | R     | 163.0 | 164.7 |
 | **6**    | Q     | R     | R     | Q     | R     | Q     | Q     | R     | 162.8 | 164.8 |
+
+The total time each rower accumulated defines their position in the
+ranking - separately for each side.
 
 | **Rower** | **Time** | **Rank** |
 | --------- | -------- | -------- |
@@ -129,4 +135,18 @@ Work in progress.
 | **3**     | 982.2    | 2        |
 | **1**     | 984.0    | 3        |
 | **4**     | 991.4    | 4        |
+
+The athletes in this example are the same as in the previous one. Now we
+can see how athletes a and 1, for which we had no data, are ranked.
+Given the small differences, athletes b and d, as well as 1 and 3, are
+effectively of similar speed.
+
+## Discussion
+
+* The appeal of the method is that it provides a full ranking of each
+  side with the same number of races as before and therefore extracts
+  more information from the same number of races.
+
+* A potential disadvantage could be that this method only indirectly
+  compares athletes. 
 
