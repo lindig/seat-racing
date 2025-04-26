@@ -1,13 +1,12 @@
 
 # Seat Racing
 
-* [Seat Racing](#seat-racing)
-  * [One-Swap Method](#one-swap-method)
-    * [Discussion](#discussion)
-  * [Two-Swaps Method](#two-swaps-method)
-    * [Discussion](#discussion)
-  * [Other Considerations](#other-considerations)
-  * [Resources](#resources)
+* [One-Swap Method](#one-swap-method)
+  * [Discussion](#discussion)
+* [Two-Swaps Method](#two-swaps-method)
+  * [Discussion](#discussion)
+* [Other Considerations](#other-considerations)
+* [Resources](#resources)
 
 Seat racing is a method employed in rowing to identify the fastest
 athletes in crew boats. A popular format is to race two crews of four
