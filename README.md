@@ -178,4 +178,4 @@ contribution of individual rowers without making additional assumptions.
 * [Christian Lindig](https://lindig.github.io/papers/seat-racing-iv-2020-draft.pdf) - a look at the math behind seat racing with the two-swaps method.
 * [Mike Purcer](https://purcerverance.ca/selection) - two-swaps method,
   including spreadsheets for download.
-* [Row2k](https://www.row2k.com/features/3988/crew-selection-part-2-seat-racing/) - stories from coaches, this suggests that people have strong believes about this but this does not have a lot of details.
+* [Row2k](https://www.row2k.com/features/3988/crew-selection-part-2-seat-racing/) - stories from coaches, this suggests that people have strong beliefs about this but this does not have a lot of details.
