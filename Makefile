@@ -1,7 +1,7 @@
 
 
 all: README.md
-	theme $<
+	theme -C toc $<
 
 clean:
 	rm -f README.html

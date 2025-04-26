@@ -1,6 +1,14 @@
 
 # Seat Racing
 
+* [Seat Racing](#seat-racing)
+  * [One-Swap Method](#one-swap-method)
+    * [Discussion](#discussion)
+  * [Two-Swaps Method](#two-swaps-method)
+    * [Discussion](#discussion)
+  * [Other Considerations](#other-considerations)
+  * [Resources](#resources)
+
 Seat racing is a method employed in rowing to identify the fastest
 athletes in crew boats. A popular format is to race two crews of four
 athletes against each other six times. By swapping athletes between
@@ -105,7 +113,7 @@ athletes on their side.
   method does not take this into account and only looks at the winning
   margin and its changes.
 
-# Two-Swaps Method
+## Two-Swaps Method
 
 In the two-swaps method after each race, two athletes from each boat
 move into the other boat and vice versa: one from each side. For each
@@ -162,3 +170,11 @@ from every stroke-side rower and add it to a bow-side rower, the total
 power in each crew would be the same as before but the ranking over all
 rowers would be different. So seat racing can't infer the power
 contribution of individual rowers without making additional assumptions.
+
+## Resources
+
+* [British Rowing](https://plus.britishrowing.org/2024/01/02/seat-racing/) - a description of the one-swap method.
+* [Christian Lindig](https://lindig.github.io/papers/seat-racing-iv-2020-draft.pdf) - a look at the math behind seat racing with the two-swaps method.
+* [Mike Purcer](https://purcerverance.ca/selection) - two-swaps method,
+  including spreadsheets for download.
+* [Row2k](https://www.row2k.com/features/3988/crew-selection-part-2-seat-racing/) - stories from coaches, this suggests that people have strong believes about this but this does not have a lot of details.
