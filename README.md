@@ -173,6 +173,8 @@ contribution of individual rowers without making additional assumptions.
 
 ## Resources
 
+* [D.J. Holland](https://www.scribd.com/document/216028905/Seat-Racing-Presented-by-Duncan-Holland-Additional-Material) - one-swap method
+* [World Rowing](https://worldrowing.com/wp-content/uploads/2020/12/3Chapter9_English-1.pdf) - one-swap method but based on fixed time of racing.
 * [British Rowing](https://plus.britishrowing.org/2024/01/02/seat-racing/) - a description of the one-swap method.
 * [Christian Lindig](https://lindig.github.io/papers/seat-racing-iv-2020-draft.pdf) - a look at the math behind seat racing with the two-swaps method.
 * [Mike Purcer](https://purcerverance.ca/selection) - two-swaps method,
