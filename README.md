@@ -141,7 +141,7 @@ can see how athletes a and 1, for which we had no data, are ranked.
 Given the small differences, athletes b and d, as well as 1 and 3, are
 effectively of similar speed.
 
-## Discussion
+### Discussion
 
 * The appeal of the method is that it provides a full ranking of each
   side with the same number of races as before and therefore extracts
@@ -151,3 +151,14 @@ effectively of similar speed.
   compares athletes. 
 
 * The analysis of the result is simpler compared to the one-swap method.
+
+## Other Considerations
+
+Seat racing produces a ranking per (stroke, bow) side. Could we obtain
+single global ranking over all athletes? We can't in the case of rowing.
+If we assume that the speed of a boat is a function of the power the
+crew produces, consider: when we keeps crews the same but take away 50W
+from every stroke-side rower and add it to a bow-side rower, the total
+power in each crew would be the same as before but the ranking over all
+rowers would be different. So seat racing can't infer the power
+contribution of individual rowers without making additional assumptions.
