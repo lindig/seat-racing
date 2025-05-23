@@ -157,6 +157,9 @@ effectively of similar speed.
 * A potential disadvantage could be that this method only indirectly
   compares athletes. 
 
+* Athletes use a specific shell different number of times. This could
+  bias results. In particular, *b* stays in *R* for all races.
+
 * The analysis of the result is simpler compared to the one-swap method.
 
 ## Other Considerations
