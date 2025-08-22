@@ -162,6 +162,46 @@ effectively of similar speed.
 
 * The analysis of the result is simpler compared to the one-swap method.
 
+## Swap Matrix
+
+The swap matrix above has some desirable properties:
+
+* Athlete "a" races with each athlete from his/her group two times. So
+  "a" and "b" will have two races together. And "a" will have three
+  races with each athlete from the other group. For example, "a" will
+  race three times with "1". Likewise for all other athletes: two races
+  with anyone on the same side and three races with each athlete on the
+  other side.
+
+* Ideally, each athlete would have three races in each shell. But this
+  is not possible while maintaining the symmetry above. In the matrix
+  above 4 athletes have 3/3 races, 3 athletes have 4/2 races and one
+  athlete has 6/0 races.
+
+
+    a b c d 1 2 3 4
+    _ _ x x _ _ x x
+    x _ x _ _ x _ x
+    _ x x _ _ x x _
+    x x _ _ _ _ x x
+    _ x _ x _ x _ x
+    x _ _ x _ x x _
+
+    3 3 3 3 0 4 4 4
+
+Another matrix is possible where two athletes split their races between
+the two boats 5/1.
+
+    a b c d 1 2 3 4
+    x x _ _ x x _ _
+    x _ x _ _ x _ x
+    x _ _ x x _ _ x
+    x x _ _ _ _ x x
+    _ x _ x _ x _ x
+    _ x x _ x _ _ x
+
+    4 4 2 2 3 3 1 5
+
 ## Other Considerations
 
 Seat racing produces a ranking per (stroke, bow) side. Could we obtain
