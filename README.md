@@ -178,7 +178,7 @@ The swap matrix above has some desirable properties:
   above 4 athletes have 3/3 races, 3 athletes have 4/2 races and one
   athlete has 6/0 races.
 
-
+```
     a b c d 1 2 3 4
     _ _ x x _ _ x x
     x _ x _ _ x _ x
@@ -188,10 +188,12 @@ The swap matrix above has some desirable properties:
     x _ _ x _ x x _
 
     3 3 3 3 0 4 4 4
+```
 
 Another matrix is possible where two athletes split their races between
 the two boats 5/1.
 
+```
     a b c d 1 2 3 4
     x x _ _ x x _ _
     x _ x _ _ x _ x
@@ -201,6 +203,7 @@ the two boats 5/1.
     _ x x _ x _ _ x
 
     4 4 2 2 3 3 1 5
+```
 
 ## Other Considerations
 
