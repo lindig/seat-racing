@@ -162,6 +162,9 @@ effectively of similar speed.
 
 * The analysis of the result is simpler compared to the one-swap method.
 
+* The fastest crew is potentially {c,d,2,3} but this crew never raced
+  together and therefore this is a hypothesis and not an observation.
+
 ## Swap Matrix
 
 The swap matrix above has some desirable properties:
