@@ -223,6 +223,12 @@ If the two shells are not identical, this could impact results: not all
 athletes are racing the same number of times in both shells. In
 particular, in the example athlete *b* never switches shells.
 
+Seat racing results can be sabotaged by collusion. If an athlete
+believes or knows that they can't benefit from the result they could
+decide to help or hinder someone else. In highly competitive situations
+it is thus unwise to create a situation where this could happen without
+consequences.
+
 ## Resources
 
 * [D.J. Holland](https://www.scribd.com/document/216028905/Seat-Racing-Presented-by-Duncan-Holland-Additional-Material) - one-swap method
